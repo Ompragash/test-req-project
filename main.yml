@@ -1,0 +1,6 @@
+- name: test req
+  hosts: localhost
+  connection: local
+  
+  roles:
+  - test-req

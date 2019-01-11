@@ -1,0 +1,3 @@
+- src: https://github.com/IshwarKanse/test-req.git
+  version: master
+  name: test-req
