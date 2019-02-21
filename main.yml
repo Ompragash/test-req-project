@@ -1,5 +1,5 @@
 - name: test req
-  hosts: localhost
+  hosts: all
   connection: local
   
   roles:
