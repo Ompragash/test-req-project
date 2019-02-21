@@ -6,10 +6,10 @@
   version: release1
   name: test2
   
-  - src: https://github.com/Ompragash/test-req.git
+- src: https://github.com/Ompragash/test-req.git
   version: release2
   name: test3
   
-  - src: https://github.com/Ompragash/test-req.git
+- src: https://github.com/Ompragash/test-req.git
   version: release3
   name: test4
